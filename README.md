@@ -1,4 +1,3 @@
-The-Rectangol-Tool
+The-Rectangle-Tool
 ==================
 
-The rectangol tool 
